@@ -12,6 +12,9 @@ Contributing
 License
 Acknowledgements
 
+![image](https://github.com/pranavsoni27/spotify-clone/assets/130215829/ed776431-9f63-4eb5-914a-4179a117a829)
+
+
 ✨ Features
 User Interface: Modern and responsive design for an immersive user experience.
 Music Library: Browse, search, and select from a list of available tracks.
